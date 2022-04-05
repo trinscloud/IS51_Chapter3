@@ -1,0 +1,1 @@
+if isinstance(num1, str)
